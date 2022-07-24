@@ -3,3 +3,4 @@
 
 Study Record  
 [1] 시중은행의 NIM과 NIM component 이해하기
+시중은행 : KB, 우리, 하나, 신한, SC
